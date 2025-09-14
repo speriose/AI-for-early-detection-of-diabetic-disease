@@ -1,0 +1,13 @@
+// Dataset Flow
+digraph {
+	rankdir=LR
+	A [label="Image Dataset"]
+	B [label=Preprocessing]
+	C [label="Train/Test Split"]
+	D [label="Model Training"]
+	E [label="Evaluation & Metrics"]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+}
