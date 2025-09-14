@@ -1,5 +1,8 @@
 # AI-for-early-detection-of-diabetic-disease
 # 🩺 AI for Early Detection of Diabetic Disease  
+************************************************************************************************************************************************************************************************************************
+*    Befor you start reading, I know this project is not the cleanest in the world but I liked it that way because its accepted that way by my masters. I upload any thing that I write any way sooo. . . ENJOY !!!    *
+************************************************************************************************************************************************************************************************************************
 
 This project is a **deep learning–powered diagnostic tool** designed to assist in the early detection of diabetic retinopathy (DR), one of the leading causes of vision loss worldwide.  
 
